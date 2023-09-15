@@ -42,7 +42,4 @@ public class shortQueueTest {
         assertEquals(true, q.isFull());
         assertEquals("abc", q.take());
     }
-
-//Create tests to
-
-}
+    }
