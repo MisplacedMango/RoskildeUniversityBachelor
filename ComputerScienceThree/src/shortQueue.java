@@ -7,5 +7,6 @@ public class shortQueue {
         String take () {String s = buffer; buffer=null; return s; }
         boolean isFull () {return buffer!=null; }
 
+
     }
 
