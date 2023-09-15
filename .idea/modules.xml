@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ComputerScienceThree/ComputerScienceThree.iml" filepath="$PROJECT_DIR$/ComputerScienceThree/ComputerScienceThree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IdeaProjects/ComputerScienceThree/ComputerScienceThree1.iml" filepath="$PROJECT_DIR$/IdeaProjects/ComputerScienceThree/ComputerScienceThree1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RoskildeUniversityBachelor.iml" filepath="$PROJECT_DIR$/RoskildeUniversityBachelor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IdeaProjects/SoftwareDevelopment1.java/SoftwareDevelopment1.java.iml" filepath="$PROJECT_DIR$/IdeaProjects/SoftwareDevelopment1.java/SoftwareDevelopment1.java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SoftwareDevelopment1.java/SoftwareDevelopment1.java1.iml" filepath="$PROJECT_DIR$/SoftwareDevelopment1.java/SoftwareDevelopment1.java1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IdeaProjects/computerEngineeringTwo/computerEngineeringTwo.iml" filepath="$PROJECT_DIR$/IdeaProjects/computerEngineeringTwo/computerEngineeringTwo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/computerEngineeringTwo/computerEngineeringTwo1.iml" filepath="$PROJECT_DIR$/computerEngineeringTwo/computerEngineeringTwo1.iml" />
+    </modules>
+  </component>
+</project>
