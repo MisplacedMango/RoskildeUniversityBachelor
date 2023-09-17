@@ -1,6 +1,3 @@
-public class horse {
-    int horse() {
-        int legs = 4;
-    return legs;
-    }
+public class horse implements animal {
+    public int getLegs() {return 4;}
 }

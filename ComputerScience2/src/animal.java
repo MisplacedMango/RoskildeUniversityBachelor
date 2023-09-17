@@ -1,4 +1,4 @@
 interface animal {
+    int getLegs();
 
- public int getLegs();
 }

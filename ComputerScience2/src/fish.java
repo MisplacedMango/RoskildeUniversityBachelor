@@ -1,6 +1,3 @@
-public class fish {
-    int fish() {
-        int legs = 0;
-    return legs;
-    }
+public class fish implements animal{
+    public int getLegs() {return 0; }
 }
