@@ -12,7 +12,10 @@ public class arrayListOneToTen {
         myArrayList.add("8");
         myArrayList.add("9");
         myArrayList.add("10");
-        System.out.println(myArrayList);
+        for (String v:myArrayList) {
+            System.out.println(v);
+        }
+
 
     }
 }
