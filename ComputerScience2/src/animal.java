@@ -1,4 +1,0 @@
-interface animal {
-    int getLegs();
-
-}
